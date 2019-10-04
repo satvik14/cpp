@@ -1,4 +1,4 @@
 #include<iostream>
 int main(){
-  cout<<"hacktober fest";
+  cout<<"hacktober fest"<<endl;
 }
